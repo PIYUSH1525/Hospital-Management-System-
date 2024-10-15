@@ -2,7 +2,7 @@
 <h1>Hospital Management System</h1><br/>
 A Java Swing-based GUI application for managing hospital operations such as adding patients, viewing patient and doctor records, and booking appointments. This application integrates with a MySQL database to store and retrieve data, ensuring efficient management of hospital information.<br/>
 <br/>
-**Features**<br/>
+Features<br/>
     --Add Patient: Add new patients with details like name and age.<br/>
     --View Patients: Retrieve and display a list of all patients stored in the database.<br/>
     --View Doctors: Retrieve and display a list of all doctors stored in the database.<br/>
